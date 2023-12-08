@@ -11,8 +11,11 @@ Welcome to my page!
 ![Static Badge](https://img.shields.io/badge/Nodejs-green?logo=nodedotjs) ![Static Badge](https://img.shields.io/badge/React-blue?logo=react) ![Static Badge](https://img.shields.io/badge/Npm-red?logo=npm) ![Static Badge](https://img.shields.io/badge/Nextjs-black?logo=nextdotjs) ![Static Badge](https://img.shields.io/badge/Anaconda-green?logo=anaconda) ![Static Badge](https://img.shields.io/badge/Qt-darkgreen?logo=qt) ![Static Badge](https://img.shields.io/badge/DotNet-purple?logo=dotnet) ![Static Badge](https://img.shields.io/badge/CMake-darkgreen?logo=cmake)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SilentPaladin)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentPaladin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![github](https://stats.justsong.cn/api/github?username=silentpaladin) ![bilibili](https://stats.justsong.cn/api/bilibili/?id=33097417)
+
 ![leetcode](https://stats.justsong.cn/api/leetcode?username=silentpaladin&cn=true) ![niuke](https://stats.justsong.cn/api/nowcoder?id=464042024) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SilentPaladin&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
