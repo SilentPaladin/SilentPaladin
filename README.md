@@ -14,8 +14,10 @@ Welcome to my page!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentPaladin&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![github](https://stats.justsong.cn/api/github?username=silentpaladin) ![bilibili](https://stats.justsong.cn/api/bilibili/?id=33097417)
+![github](https://stats.justsong.cn/api/github?username=SilentPaladin) ![bilibili](https://stats.justsong.cn/api/bilibili/?id=33097417)
 
 ![leetcode](https://stats.justsong.cn/api/leetcode?username=silentpaladin&cn=true) ![niuke](https://stats.justsong.cn/api/nowcoder?id=464042024) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=silentpaladin)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SilentPaladin&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
