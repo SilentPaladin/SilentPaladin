@@ -17,22 +17,13 @@
 
 ### ⚔️ About Me
 
-```python
-class SilentPaladin:
-    def __init__(self):
-        self.name = "沉默圣骑士"
-        self.role = "Developer / Explorer"
-        self.motto = "沉睡古堡岁月深，默念传说守真心。"
-        self.creed = "代码为剑，沉默为甲。"
-        self.current_focus = ["Python", "Rust", "C++", "Web"]
-        self.hobbies = ["Coding", "ACG", "Open Source"]
+<div align="center">
 
-    def say_hi(self):
-        print("Welcome to my realm! 🐎")
+**代码为剑，沉默为甲** 🛡️
 
-me = SilentPaladin()
-me.say_hi()
-```
+*沉睡古堡岁月深，默念传说守真心。*
+
+</div>
 
 - 🔭 正在折腾：全栈 + 系统底层，什么都想学一点
 - 🌱 正在学习：`Rust` / `TypeScript` / `React` / `Qt`
@@ -78,21 +69,11 @@ me.say_hi()
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SilentPaladin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B08B31&icon_color=B08B31&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-<img height="165" src="https://streak-stats.demolab.com?user=SilentPaladin&theme=tokyonight&hide_border=true&background=0D1117&fire=B08B31&ring=B08B31&currStreakLabel=B08B31" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentPaladin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B08B31&text_color=c9d1d9&langs_count=8" />
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=SilentPaladin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+![github](https://stats.justsong.cn/api/github?username=SilentPaladin)
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SilentPaladin&theme=github-compact&bg_color=0d1117&color=B08B31&line=B08B31&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+> 注：经典的 readme-stats / streak / top-langs / trophy / activity-graph 卡片目前服务商停服（Vercel 部署被暂停），暂时下掉，等恢复再加回来。
 
 ---
 
@@ -100,7 +81,6 @@ me.say_hi()
 
 <div align="center">
 
-![github](https://stats.justsong.cn/api/github?username=SilentPaladin)
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=33097417)
 
 ![leetcode](https://stats.justsong.cn/api/leetcode?username=silentpaladin&cn=true)
@@ -116,7 +96,7 @@ me.say_hi()
 
 ![snake](https://raw.githubusercontent.com/SilentPaladin/SilentPaladin/output/github-contribution-grid-snake-dark.svg)
 
-<!-- 需要配合 snake workflow 生成上面的贪吃蛇，如果还没有，加一个 .github/workflows/snake.yml 即可 -->
+<!-- 由 .github/workflows/snake.yml 每天自动生成，push 后等 Action 跑完即可显示 -->
 
 </div>
 
